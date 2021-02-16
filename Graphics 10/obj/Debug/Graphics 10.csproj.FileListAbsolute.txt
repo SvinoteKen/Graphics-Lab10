@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\bin\Debug\Graphics 10.exe.config
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\bin\Debug\Graphics 10.exe
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\bin\Debug\Graphics 10.pdb
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics 10.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics_10.Form1.resources
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics_10.Properties.Resources.resources
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics 10.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics 10.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics 10.exe
+C:\Users\MSI\source\repos\Graphics 10\Graphics 10\obj\Debug\Graphics 10.pdb
